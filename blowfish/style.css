@@ -1,0 +1,38 @@
+h1{
+    color: rgb(9, 71, 171);
+    font-family:'Gill Sans';
+    text-align: center;
+    font-size: 25px;
+
+}
+h2{
+    color: rgb(18, 77, 128);
+    text-align: center;
+    text-decoration: dotted;
+    font-size: 15px;
+}
+h3{
+    color: black;
+    text-align: center;
+
+}
+
+input[type="text"] {
+    width: 15%
+}
+input[type="email"], select {
+    width: 30%;
+}
+input[type="room preference"], select {
+    width: 10%
+}
+input[type="number"] {
+    width: 3%;
+}
+/* body{ */
+    /* background: linear-gradient(to right, rgb(93, 99, 107) 70% */
+    
+    
+    
+/* } */
+
